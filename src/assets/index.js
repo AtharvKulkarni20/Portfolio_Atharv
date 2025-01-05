@@ -25,10 +25,19 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import SA from "./company/SA.webp";
+import NK from "./company/NK.png";
+import EcoStart from "./company/EcoStart.png";
 
 import carrent from "./carrent.png";
+import Portfolio from "./Portfolio.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Resume_Ai from "./Resume_Ai.png";
+import Feature from "./Feature.png";
+
+
+import Shridhar from "./Shridhar.jpeg";
 
 export {
   logo,
@@ -52,6 +61,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  SA,
+  NK,
+  EcoStart,
   meta,
   shopify,
   starbucks,
@@ -59,4 +71,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  Portfolio,
+  Resume_Ai,
+  Feature,
+  Shridhar,
 };
